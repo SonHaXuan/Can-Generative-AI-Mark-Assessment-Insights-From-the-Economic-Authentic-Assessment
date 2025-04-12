@@ -1,5 +1,5 @@
 # Can-Generative-AI-Mark-Assessment-Insights-From-the-Economic-Authentic-Assessment
-This folder contains the supplementary files of our study "Can Generative AI Mark Assessment? Insights From the Economic Authentic Assessment".
+This folder contains the supplementary files of our study "Evaluating the Efficacy of Generative Artificial Intelligence in Grading: Insights from Authentic Assessments in Economics ".
 
 The files include:
 1) the 'Data' folder that contains the datasets used in the numeric-based questions
